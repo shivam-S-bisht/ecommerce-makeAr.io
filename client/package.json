@@ -1,0 +1,31 @@
+{
+	"name": "client-ecommerce-makear.io",
+	"version": "1.0.0",
+	"description": "Frontend of Ecommerce App",
+	"main": "index.js",
+	"scripts": {
+		"dev": "webpack-dev-server",
+		"build": "webpack --mode=production"
+	},
+	"author": "shivam",
+	"license": "MIT",
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-router": "^6.9.0",
+		"react-router-dom": "^5.2.0"
+	},
+	"devDependencies": {
+		"@babel/cli": "^7.21.0",
+		"@babel/core": "^7.21.3",
+		"@babel/preset-env": "^7.20.2",
+		"@babel/preset-react": "^7.18.6",
+		"babel-loader": "^9.1.2",
+		"css-loader": "^6.7.3",
+		"style-loader": "^3.3.2",
+		"html-webpack-plugin": "^5.5.3",
+		"webpack": "^5.88.1",
+		"webpack-cli": "^5.1.4",
+		"webpack-dev-server": "^4.15.1"
+	}
+}

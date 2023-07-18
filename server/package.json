@@ -1,0 +1,11 @@
+{
+	"name": "server-ecommerce-makear.io",
+	"version": "1.0.0",
+	"description": "Backend of ecommerce app",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "shivam",
+	"license": "MIT"
+}
